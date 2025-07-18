@@ -15,6 +15,8 @@ afin de fournir aux utilisateurs une estimation fiable du prix de leur bien à p
  
  **Suivi en mode agile (Jira + Kanban)**
  Veuillez consultez votre boite mail pour accéder à ma planification sur Jira.
+ 
+ J'ai donné l'accès à l'email  houfakir@simplon.co.
 
 ## Autrice
 
