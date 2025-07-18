@@ -19,7 +19,7 @@ afin de fournir aux utilisateurs une estimation fiable du prix de leur bien à p
 Nom : Ibtissam Sannaky
 Contact : bissamsannaky@gmail.com
 
-## 🧠 Méthodologie
+## Méthodologie
 
 Le projet suit une démarche rigoureuse en plusieurs étapes :
 
@@ -46,7 +46,7 @@ Le projet suit une démarche rigoureuse en plusieurs étapes :
 9. **Sauvegarde du meilleur modèle** (`joblib`)
 10. **Déploiement d'une interface utilisateur avec Streamlit**
 
-## 📊 Résultats
+## Résultats
 
 - **Modèle retenu** : Gradient Boosting Regresor
 - **Score R² obtenu** : 0.40 (sur des données bruitées)
@@ -71,9 +71,14 @@ streamlit run app.py
 ```
 ## Contenus de chaque fichier
 **appartements-data-db-6872f0ba853ec096170787.csv** : Contient le jeux de données correspondant sous format .csv.
+
 **Source_file.ipynb** : Contient le code source du projet.
+
 **Gradient_boosting.pkl**: Sauvegarder le modèle entraîné  Gradient boosting.
+
 **random_forest_model.pkl**:Sauvegarder le modèle entraîné Random Forest.
+
 **Test.ipynb**: Fichier Python pour tester le modèle choisi.
+
 **application.py**: Contient le code permettant de lancer l'application Streamlit localement.
 
