@@ -12,11 +12,14 @@ afin de fournir aux utilisateurs une estimation fiable du prix de leur bien à p
 ## Projet individuel
 
  Contexte pédagogique encadré par simplon academy
+ 
  **Suivi en mode agile (Jira + Kanban)**
  Veuillez consultez votre boite mail pour accéder à ma planification sur Jira.
 
 ## Autrice
+
 Nom : Ibtissam Sannaky
+
 Contact : bissamsannaky@gmail.com
 
 ## Méthodologie
