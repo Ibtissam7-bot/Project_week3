@@ -1,4 +1,4 @@
-# 🏠 SalesHouses – Simulateur intelligent d'évaluation immobilière
+# SalesHouses – Simulateur intelligent d'évaluation immobilière
 
 ## Objectif du projet
 
